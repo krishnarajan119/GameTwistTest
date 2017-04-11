@@ -1,11 +1,11 @@
 # Technical Assessment - Greentube
 ## Candidate: Krishnarajan Rajendran
 
-###Exercise 1 -Test Automation
+### Exercise 1 -Test Automation
 
 Pre-requisites: Protractor, Jasmine, Selenium-webdriver installed in your machine.
 				Configure the Environment path variable with Protractor path ,jasmine path. So that command line usage will not be a problem.
-####Below are the Automation steps as suggested
+#### Below are the Automation steps as suggested
 	* Verified and looged into the https://www.gametwist.com/en/
         
     * Accepted the Cookies and the Bonus Wheel once logged in thus completed the "Close any popups IF they appear". 
@@ -23,13 +23,15 @@ Pre-requisites: Protractor, Jasmine, Selenium-webdriver installed in your machin
     
     * Successfully logged out.
 	
+	I have implemented page object creations in two ways. Initially i have started how i follow in my current company and later moved on with proper Object.create(). 
+	
 	**Note: And importantly i have used sleep in the code. Since my network is bit slow and loading of website is taking some time. 
 	So to manage that and perform the scripts, i have added sleep.**
 
 
 
-#####Failures - Exploratory Testing:
-	* The Seearch is working properly to display the search reults. But Clicking the Search Icon always opens the first game.
+#### Failures - Exploratory Testing:
+	* The Search is working properly to display the search reults. But Clicking the Search Icon always opens the first game.
 	        Steps:  Open the Game Twist Page
 	                Login with respective user(login is not need though)
 	                Enter some value in the search field for eg., "Slot"
