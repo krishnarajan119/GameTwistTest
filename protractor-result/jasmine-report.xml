@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Game Twist Main Page - " timestamp="2017-04-11T11:29:12" hostname="localhost" time="88.101" errors="0" tests="0" skipped="0" disabled="0" failures="0">
+ </testsuite>
+ <testsuite name="Game Twist Main Page - .Login and closing popups - " timestamp="2017-04-11T11:29:12" hostname="localhost" time="19.653" errors="0" tests="6" skipped="0" disabled="0" failures="0">
+  <testcase classname="Game Twist Main Page - .Login and closing popups - " name="Close the Accept cookie message and check it is closed" time="8.396" />
+  <testcase classname="Game Twist Main Page - .Login and closing popups - " name="Check the home page is opened" time="0.036" />
+  <testcase classname="Game Twist Main Page - .Login and closing popups - " name="Check the nickname and password field is available in the home page" time="0.21" />
+  <testcase classname="Game Twist Main Page - .Login and closing popups - " name="Check the Login and Register button is available in the home page" time="0.078" />
+  <testcase classname="Game Twist Main Page - .Login and closing popups - " name="Login to the site" time="4.334" />
+  <testcase classname="Game Twist Main Page - .Login and closing popups - " name="check the twister present and if so run it and close it" time="6.584" />
+ </testsuite>
+ <testsuite name="Game Twist Main Page - .Slots Game Page" timestamp="2017-04-11T11:29:32" hostname="localhost" time="7.479" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Game Twist Main Page - .Slots Game Page" name="Goto and Verify the Slot Games Page" time="7.479" />
+ </testsuite>
+ <testsuite name="Game Twist Main Page - .Bingo Game Page - " timestamp="2017-04-11T11:29:39" hostname="localhost" time="4.131" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Game Twist Main Page - .Bingo Game Page - " name="Goto and Verify the Bingo Games Page" time="4.131" />
+ </testsuite>
+ <testsuite name="Game Twist Main Page - .Casino Game Page - " timestamp="2017-04-11T11:29:43" hostname="localhost" time="3.601" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Game Twist Main Page - .Casino Game Page - " name="Goto and Verify the Casino Games Page" time="3.601" />
+ </testsuite>
+ <testsuite name="Game Twist Main Page - .Poker Game Page - " timestamp="2017-04-11T11:29:47" hostname="localhost" time="3.438" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Game Twist Main Page - .Poker Game Page - " name="Goto and Verify the Poker Games Page" time="3.438" />
+ </testsuite>
+ <testsuite name="Game Twist Main Page - .Search Games Section" timestamp="2017-04-11T11:29:51" hostname="localhost" time="38.07" errors="0" tests="3" skipped="0" disabled="0" failures="0">
+  <testcase classname="Game Twist Main Page - .Search Games Section" name="search the slot games" time="2.99" />
+  <testcase classname="Game Twist Main Page - .Search Games Section" name="count the number of games found in search" time="0.25" />
+  <testcase classname="Game Twist Main Page - .Search Games Section" name="search, click and load the game" time="34.83" />
+ </testsuite>
+ <testsuite name="Game Twist Main Page - .Change the Language" timestamp="2017-04-11T11:30:29" hostname="localhost" time="11.131" errors="0" tests="3" skipped="0" disabled="0" failures="0">
+  <testcase classname="Game Twist Main Page - .Change the Language" name="check the current language" time="0.035" />
+  <testcase classname="Game Twist Main Page - .Change the Language" name="change the desired language" time="5.597" />
+  <testcase classname="Game Twist Main Page - .Change the Language" name="change the desired language" time="5.497" />
+ </testsuite>
+ <testsuite name="Game Twist Main Page - .Login and closing popups - " timestamp="2017-04-11T11:30:40" hostname="localhost" time="0.595" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Game Twist Main Page - .Login and closing popups - " name="log out the page" time="0.595" />
+ </testsuite>
+</testsuites>

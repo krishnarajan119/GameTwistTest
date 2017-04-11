@@ -1,0 +1,23 @@
+{
+  "userInfo": {
+    "validUserDetails": {
+      "userName": "krishnarajan",
+      "password": "G@meTwist",
+      "emailID": "krishnarajan.rTest@gmail.com"
+    },
+    "invalidUserDetails": {
+      "userInvalid": "xkalkdl",
+      "passwordInvalid":"kjhadbj",
+      "emailID": "dummydummy@sxklka.com"
+    }
+  },
+  "urls":{
+    "homePageEN":"https://www.gametwist.com/en/",
+    "homePageDE":"https://www.gametwist.com/de/",
+    "slotPage": "https://www.gametwist.com/en/games/slots/",
+    "bingoPage": "https://www.gametwist.com/en/games/bingo/",
+    "casinoPage": "https://www.gametwist.com/en/games/casino/",
+    "pokerPage": "https://www.gametwist.com/en/games/poker/",
+    "gameBaseURL": "https://www.gametwist.com"
+  }
+}
