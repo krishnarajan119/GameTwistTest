@@ -14,7 +14,7 @@ exports.config = {
     framework: 'jasmine2',
     seleniumPort: 4444,
     seleniumAddress: 'http://localhost:4444/wd/hub',
-    specs: ['E:/greentube/spec/gameTwistMain.spec.js'],
+    specs: ['./spec/gameTwistMain.spec.js'],
     allScriptsTimeout: 500000,
     jasmineNodeOpts: {
         isVerbose: true,

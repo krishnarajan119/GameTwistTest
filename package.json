@@ -1,0 +1,22 @@
+{
+  "name": "greentube",
+  "version": "1.0.0",
+  "description": "Pre-requisites: Protractor, Jasmine, Selenium-webdriver installed in your machine.\r \t\t\t\tConfigure the Environment path variable with Protractor path ,jasmine path. So that command line usage will not be a problem.\r ####Below are the Automation steps as suggested\r \t* Verified and looged into the https://www.gametwist.com/en/",
+  "main": "conf.js",
+  "dependencies": {
+    "bind": "^0.1.7",
+    "jasmine": "^2.5.3",
+    "jasmine-given": "^2.6.4",
+    "jasmine-spec-reporter": "^3.2.0",
+    "jasmine-node": "^1.14.5",
+    "jasmine-reporters": "^2.2.1",
+    "split": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

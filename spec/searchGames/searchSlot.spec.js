@@ -21,7 +21,7 @@ exports.start = function(){
         it('count the number of games found in search', function () {
             searchPage.getCountElement.getText().then(function (gamecount) {
                 //console.log('Test Value is ' + gamecount);
-                var str = gamecount;
+                var str = gamecount; // 1-5 / 23
                 var result = str.split("/");
                 console.log('Total number of games for the search Key Slot is '+ result[1]);
             });
